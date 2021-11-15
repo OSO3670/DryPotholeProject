@@ -2,7 +2,7 @@
 title: "Data Visualization"
 bg: 'ECE4DB'
 color: 'FEC89A'
-fa-icon: plug
+fa-icon: bar-chart
 ---
 
 ## Chart
