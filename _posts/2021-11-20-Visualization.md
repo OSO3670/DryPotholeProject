@@ -39,4 +39,9 @@ The visualization of the potholes(Bunny, Wallnut, Mouth, Gravy, Lettuce) depth o
 
 In order to check the strength of the relationship between the each of the column variables in the dataset, I used the correlation function, the result didn't show linearity for most of the data variables, those that had some level of relation are the temperature family(tmean, tmax, tmin), this in a way is also related to radiation, vapour pressure. Another important highlights are the water depths, they all had some level of similarity, of course because, most of the output for water depth are within a particular threshold. The major focus is our climatic condition to the pothole water depth, but there were no visible relationship between them.
 ## Pair plot
-For pair plot there are variety of them on the notebook
+![download (34)](https://user-images.githubusercontent.com/77670180/144391343-93ea8bbc-0fb9-461c-aa7d-af3a46eae45f.png)
+![download (35)](https://user-images.githubusercontent.com/77670180/144391392-74019259-c586-4cb9-8c73-4ea656658dc8.png)
+![download (36)](https://user-images.githubusercontent.com/77670180/144391410-a8cc8a5b-812a-4a07-815a-70bf7c820aab.png)
+![download (37)](https://user-images.githubusercontent.com/77670180/144391424-34cb9858-0b5d-4c49-b65a-ec6c63550678.png)
+![download (38)](https://user-images.githubusercontent.com/77670180/144391441-02d52f01-0302-4d43-b393-7e6a0d204fbf.png)
+
