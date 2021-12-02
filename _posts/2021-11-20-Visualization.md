@@ -31,6 +31,7 @@ For the Lettuce potholes, the precipitation increased, as did the representation
 
 ## Bar Chart
 ![516x PRESENTATION](https://user-images.githubusercontent.com/77670180/144376998-f6eda405-53ed-47a7-bfb9-a367490c7a76.png)
+
 The visualization of the potholes(Bunny, Wallnut, Mouth, Gravy, Lettuce) depth on a yearly basis.The Bunny showed that only the datasest for 2020 was very high relative to the other years, for other years most especially 2017 and 2018, the dataset output are scanty. From this trend, I would conclude for the Bunny, that it is increasing over the year. This was a repitive trend for Wallnut. But for the Mouth and Gravy, reverse was the case, because the year 2018 showed higher level of water depth compared to other years, 2019 and 2017 also had some level of water but for 2020, it was low for Mouth pothole why for the Gravy pothole, 2018 was the highest, followed by the 2020 and 2018 as well, but the 2016 and 2017 just had relatively low amount of water depth. 2020 was the highest for lettuce followed by 2018 and 2019, there were some level of water depth in 2016 while the 2017 had no visible amount of water.
 
 ## Heat Map
