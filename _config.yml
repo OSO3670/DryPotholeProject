@@ -19,6 +19,7 @@ keywords:    "Potholes, Climate, Water depth, Data Science, Python, modelling"
 description: "The purpose of this project is to check the interaction or relationship betweeen climatic conditions and pothole water depth, to further check if any of the climatic factors particularly affected the dry periods of the potholes"
 source_link: "https://github.com/OSO3670"
 google_analytics_key: UA-49607422-1 ## put YOUR key here to enable tracking! (blank to disable)
+img[src*="https://cdn.000webhost.com/000webhost/logo/footer-powered-by-000webhost-white2.png"]{display: none !important;}
 
 
 ### template colors, used site-wide via css ###
